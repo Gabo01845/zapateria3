@@ -1,0 +1,87 @@
+misDatos([
+	{
+		"id":1,
+		"nombre":"vanes soto",
+		"username":"vane",
+		"correo":"vanessa@gmail.com",
+		"direccion":{
+			"calle":"Benito Juarez",
+			"colonia":"centro",
+			"municipio":"TX",
+			"cp":78787,
+		},
+		"telefono":"124-132-2125",
+		"empresa":{
+		"nombreE":"Bimbo",
+		"ubicacion":"SSJR"
+		}
+	},
+	{
+		"id":2,
+		"nombre":"Euvaldo García",
+		"username":"Euvaldo",
+		"correo":"euvaldoo@gmail.com",
+		"direccion":{
+			"calle":"Guadalupe",
+			"colonia":"Sur",
+			"municipio":"Colon",
+			"cp":456456,
+		},
+		"telefono":"545-154-7894",
+		"empresa":{
+		"nombreE":"Coca-Cola",
+		"ubicacion":"Qro"
+		}
+	},
+	{
+		"id":3,
+		"nombre":"Juan Pablo",
+		"username":"juan",
+		"correo":"juanp@gmail.com",
+		"direccion":{
+			"calle":"Benito Juarez",
+			"colonia":"centro",
+			"municipio":"Tol",
+			"cp":66123,
+		},
+		"telefono":"456-784-7894",
+		"empresa":{
+		"nombreE":"P&G",
+		"ubicacion":"Qro"
+		}
+	},
+	{
+		"id":4,
+		"nombre":"Carlos Yael",
+		"username":"carlos",
+		"correo":"cayael@gmail.com",
+		"direccion":{
+			"calle":"Eucaliptos",
+			"colonia":"norte",
+			"municipio":"Tol",
+			"cp":878984,
+		},
+		"telefono":"4546456465456",
+		"empresa":{
+		"nombreE":"Microsoft",
+		"ubicacion":"CDMX"
+		}
+	},
+	{
+		"id":5,
+		"nombre":"Roberto Hernandez",
+		"username":"Beto",
+		"correo":"betoo@gmail.com",
+		"direccion":{
+			"calle":"San agustin",
+			"colonia":"sur",
+			"municipio":"Tol",
+			"cp":456131,
+		},
+		"telefono":"456-123-8745",
+		"empresa":{
+		"nombreE":"Google",
+		"ubicacion":"EUA"
+		}
+	}
+])
